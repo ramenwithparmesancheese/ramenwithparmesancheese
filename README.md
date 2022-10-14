@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramenwithparmesancheese
 - 👀 I’m interested in businness and computer programming
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on anything
+- 🍻 looking to collaborate on anything
 - 📫 How to reach me email
 
 <!---
