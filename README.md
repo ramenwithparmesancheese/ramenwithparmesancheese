@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramenwithparmesancheese
 - 👀 I’m interested in businness and computer programming
-- 🌱 I’m currently learning Python
+- 🐍 I’m currently learning Python and Swift
 - 🍻 looking to collaborate on anything
 - 📫 How to reach me email
 
